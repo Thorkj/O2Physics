@@ -11,7 +11,7 @@
 
 /// \file corrSparse.cxx
 /// \brief Provides a sparse with usefull two particle correlation info
-/// \author Thor Jensen (thor.kjaersgaard.jensen@cern.ch) and Debojit Sarkar (debojit.sarkar@cern.ch)
+/// \author Thor Jensen (thor.kjaersgaard.jensen@cern.ch)
 
 #include <CCDB/BasicCCDBManager.h>
 #include "TRandom3.h"
